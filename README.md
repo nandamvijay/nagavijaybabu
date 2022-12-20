@@ -33,11 +33,13 @@ This is a web based application developed for  related earth telugu based websit
 
 
 ### Home -
+![PS1](https://user-images.githubusercontent.com/118506403/208709933-45117ac3-0a9f-40e8-883b-ba7780fb6473.png)
 
 
    
 
 ### About Us -
+![PS2](https://user-images.githubusercontent.com/118506403/208710861-b11bf0ac-f533-49f1-887c-6956eec2ced4.png)
 
 
 
@@ -46,36 +48,42 @@ This is a web based application developed for  related earth telugu based websit
 
 ### Services -
 
+![PS3](https://user-images.githubusercontent.com/118506403/208711019-1fbce548-6c43-45b2-8058-a3de08dc2b69.png)
+
 
 
 ### Team -
+![PS4](https://user-images.githubusercontent.com/118506403/208711150-f662e630-7d8e-493b-8e27-66951b4170ec.png)
 
 
 
 ### Projects -
+![PS5](https://user-images.githubusercontent.com/118506403/208711441-039cd97a-1572-4d6a-9135-b34527f69305.png)
 
 
 
 
 
 ### Contact Us -
+![PS6](https://user-images.githubusercontent.com/118506403/208711532-39c357ca-ef8a-433f-ae05-8c57a4ed5a88.png)
+
+
 
 
 
 ### healthbot -
-
-
-
-
-### static web apps -
+![PS7](https://user-images.githubusercontent.com/118506403/208711640-e8afa597-f0b0-4422-8c47-cc6cc94fa8fa.png)
 
 
 
 
 ### azure health bot -
+![PS8](https://user-images.githubusercontent.com/118506403/208712288-8480e28c-f56d-43c2-a10f-1e5511205f39.png)
 
 
 
+
+### static web apps -
 
 
 
